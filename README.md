@@ -187,7 +187,7 @@ All activities documented in this project were carried out as part of an assigne
 
 ![ns lookup](nslookup.png)
 
-![curl I](curl-I.png)
+![curl I](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/curl%20-I%20.png)
 
 ![waf w00f](wafw00f...png)
 
