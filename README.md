@@ -197,15 +197,15 @@ All activities documented in this project were carried out as part of an assigne
 
 ![theHarvester Results](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/theHarvester-03.png)
 
-![zenmap topology](zenmap-topology....jpg)
+![network topology](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/network_topoplogy.png)
 
 👤 **Author**
-**Dasola Olaopa**
 
-Cybersecurity Professional B083A
+**Balogun Esther**
 
-LinkedIn: https://www.linkedin.com/in/olaopadasola
+Cybersecurity Professional B083F
+
+LinkedIn: https://www.linkedin.com/in/esther-balogun
 
 📌 **Project Information**
 **Project Information:** Cybersecurity Program at NetworkWalks | Week: 02 : Repository: GitHub
-
