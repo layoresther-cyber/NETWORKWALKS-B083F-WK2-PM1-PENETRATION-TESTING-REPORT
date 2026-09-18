@@ -68,20 +68,12 @@ theHarvester -d microsoft.com -l 1000 -b baidu
 
 The scan returned:
 
-[*] Target: microsoft.com
-[*] Searching Baidu.
-[*] No IPs found.
-[*] No emails found.
-[*] No people found.
-[*] Hosts found: 5
-
-The five hosts discovered were:
-
-account.microsoft.com
-demo.wd.microsoft.com
-fabric.microsoft.com
-serviceshub.microsoft.com
-support.microsoft.com
+* Target: microsoft.com
+* Searching Baidu.
+* No IPs found.
+* No emails found.
+* No people found.
+* Hosts found: 14
 
 This demonstrated how theHarvester can identify publicly available hosts and subdomains associated with a target domain.
 
@@ -189,7 +181,7 @@ All activities documented in this project were carried out as part of an assigne
 
 ![curl I](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/curl%20-I%20.png)
 
-![waf w00f](wafw00f...png)
+![waf w00f](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/wafw00f.png)
 
 ![theHarvester Results](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/theHarvester-01.png)
 
