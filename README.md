@@ -3,7 +3,7 @@
 ## PENETRATION TESTING REPORT
 
 ## FOOTPRINTING & NETWORK SCANNING PHASES
-WK2-PM1|CYBERSECURITY|NETWORKWALKS
+WK2-PM2|CYBERSECURITY|NETWORKWALKS
 | Pentester Name (Cybersecurity Professional)| Balogun Esther |
 |---------------------------------------------|---------------|
 | Program/Batch| B083-NetworkWalks | 
