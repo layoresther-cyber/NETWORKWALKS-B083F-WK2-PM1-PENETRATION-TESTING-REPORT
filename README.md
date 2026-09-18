@@ -190,7 +190,12 @@ All activities documented in this project were carried out as part of an assigne
 ![curl I](curl-I.png)
 
 ![waf w00f](wafw00f...png)
+
 ![theHarvester Results](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/theHarvester-01.png)
+
+![theHarvester Results](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/theHarvester-02.png)
+
+![theHarvester Results](https://github.com/layoresther-cyber/NETWORKWALKS-B083F-WK2-PM1-PENETRATION-TESTING-REPORT/blob/main/theHarvester-03.png)
 
 ![zenmap topology](zenmap-topology....jpg)
 
